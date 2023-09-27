@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KaimarLilienthal
 - 👀 I’m interested in IT.
-- 🌱 I’m currently learning full stack in Vali IT course!
-- 💞️ I’m looking to collaborate on company to do my intership.
+- 🌱 I have graduated Vali IT retraining full-stack course! JAVA, JavaScript, Vue, Spring
+- 💞️ I’m looking to collaborate on company to do my internship or start in entry level as junior developer.
 - 📫 you can e-mail to me kaimarlilienthal@gmail.com
 
 <!---
